@@ -5,3 +5,12 @@ But be warned, the quality and maturity of the code ranges from "works for me" t
 Some code may not even work at all.
 
 🧑🏼💻 Born to 🪟, Forced to 🐧 
+
+
+###
+
+<br clear="both">
+
+<img src="https://github.com/amarian12/amarian12/raw/refs/heads/main/snake.svg" alt="Snake animation" />
+
+###
